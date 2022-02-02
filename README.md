@@ -7,29 +7,29 @@ database, Sequelize library and Express.js.
 
 ​
 
-## VIDEO DEMO OF API CALLS TESTING IN INSOMNIA
-![Video Demo](https://www.awesomescreenshot.com/video/7157595?key=bee89fab811df98a6492b50b430ce84c)
+## Video Demo for all API Calls CRUD Functions
+https://www.awesomescreenshot.com/video/7157595?key=bee89fab811df98a6492b50b430ce84c
 
 
-## API CALL TO GET A LIST OF ALL PRODUCTS
+## API Call to get a list of all products
 ![Screenshot](assets/images/allproducts.png)
 
 
-## API CALL TO GET A LIST OF ALL CATEGORIES
+## API Call to get a list of all categories
 ![Screenshot](assets/images/allcategories.png)
 
 
-## ## API CALL TO GET A LIST OF ALL TAGS
+## API Call to get a list of Tags
 ![Screenshot](assets/images/alltags.png)
 
 
-## API CALL TO GET A SINGLE CATEGORY BY ID
+## API Call to get a category by ID
 ![Screenshot](assets/images/categorybyid.png)
 
 
-## API CALL TO GET A PRODUCT BY ID
+## API Call to get a product by ID
 ![Screenshot](assets/images/productbyid.png)
 
 
-## API CALL TO GET A TAG BY ID
+## API Call to get a tag by ID
 ![Screenshot](assets/images/tagbyid.png)
